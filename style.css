@@ -349,7 +349,7 @@ footer{
  /* X-Small devices (portrait phones, less than 576px) */
 
 /* Small devices (landscape phones, 576px and up) */
-@media (max-width: 576px) and { 
+@media (max-width: 576px) { 
 
     .inner-header{
         width: 100%;
