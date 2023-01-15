@@ -546,6 +546,11 @@ footer{
     justify-content: space-around;
     gap: 10px;
 }
+    .blog-part .inner-blog .no{
+    font-size: 30px;
+    line-height: 38px;
+    font-weight: 600;
+}
 .blog-part .inner-blog{
     text-align: center;
     padding: 30px 20px;
